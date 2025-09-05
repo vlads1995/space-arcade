@@ -1,2 +1,2 @@
-# space-acrade
-2D Space acrade project making with ECS
+# space-arcade
+2D Space arcade project making with ECS
